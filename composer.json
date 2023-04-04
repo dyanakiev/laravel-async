@@ -1,5 +1,5 @@
 {
-    "name": "vxm/laravel-async",
+    "name": "dyanakiev/laravel-async",
     "description": "Provide an easy way to run code asynchronously for Laravel",
     "keywords": [
         "vxm",
@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": "^8.0",
         "illuminate/support": "^9.0",
         "spatie/async": "^1.5"
     },
